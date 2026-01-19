@@ -17,3 +17,5 @@
    ```bash
    npx expo start
    ```
+
+## Для корректной работы приложения нужен VPN, так как API: https://picsum.photos без него блокируется
